@@ -13,7 +13,7 @@
 <p align="left">
   
 <a href="https://t.me/Samo59z" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
-<a href="https://mail.google.com/mail/u/?authuser=petrarka.4ok@gmail.ru" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="petrarka.4ok@gmail.com" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/?authuser= samot.samoe@gmail.ru" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="samot.samoe@gmail.com" height="30" width="40" /></a>
 <a href="https://hh.ru/applicant/resumes/view?resume=aca3ee1aff098449dd0039ed1f33426e6e6f5a" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="samo" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/samotsamoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samotsamoe" height="30" width="40" /></a>
 </p>
